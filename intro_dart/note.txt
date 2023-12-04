@@ -1,0 +1,7 @@
+- Dart is familiar with C#, Javascript, Swift, and Kotlin
+
+- Characteristic of Dart : 
+Statically typed,
+Type inference,
+String Interpolation,
+Multi-paradigm: OOP & Functional
